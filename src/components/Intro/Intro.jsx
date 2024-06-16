@@ -6,7 +6,9 @@ export default function Intro() {
             <h1>Results Analysis</h1>
             <p>MRI Analysis Results for Patient Serie</p>
             <ul className="actions">
-                <li><a href="#header" className="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
+                <li><a className="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
+                <li></li>
+                <li><a className="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
             </ul>
         </div>
     );
